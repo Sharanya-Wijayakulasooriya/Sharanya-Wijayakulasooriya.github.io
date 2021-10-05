@@ -16,6 +16,16 @@ I like to learn new things and use my whole potential to do any task that helps 
 ## Resume:
 > [Download Resume](https://drive.google.com/file/d/1xNeTTSitR7Z_sYnUxSVSeiX0gT9YfNcY/view?usp=sharing)
 
+## Educational Qualifications:
+> **G.C.E. Advanced Level (2020)**
+* Bio Science: 
+* Biology - C | Chemistry – S | Physics – S 
+
+* (Index No. - 9269843) 
+
+* Mahamaya Girls’ College, Kandy, Sri Lanka
+
+
 ## Technical Proficiency:
 
 ![Tech Prof](https://user-images.githubusercontent.com/91935524/136007380-bc4531b2-ce49-41ae-9e44-e9b88a3dfbe2.jpg)
