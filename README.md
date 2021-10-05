@@ -1,6 +1,5 @@
 <p align="center">
-<img width="200" src="![IMG_20201022_094856_579](https://user-images.githubusercontent.com/91935524/136026237-616eb128-66e9-4f91-8012-f5c8b7199395.jpg)
-"
+<img width="200" src="https://drive.google.com/file/d/15-iI_Pb3zrLYvb_jWItYWdtmjV1kEXu5/view?usp=sharing"
 </p>
  
 <h1 align="center"> Sharanya Wijayakulasooriya </h1> 
