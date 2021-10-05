@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/91935524/136033801-21e1c24e-8a0e-4e2f-8573-81f6a6b13c94.jpg)" alt="Sublime's custom image"/>
+  <img src="(https://user-images.githubusercontent.com/91935524/136033801-21e1c24e-8a0e-4e2f-8573-81f6a6b13c94.jpg)"/>
 </p>
 
 ![IMG_20201022_094856_579](https://user-images.githubusercontent.com/91935524/136033773-65e3790d-c2dc-4236-b44b-c741dd6f6fa8.jpg)
