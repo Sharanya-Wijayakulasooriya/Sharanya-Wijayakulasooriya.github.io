@@ -27,7 +27,8 @@ I like to learn new things and use my whole potential to do any task that helps 
 
  Mahamaya Girls’ College, Kandy, Sri Lanka
  
- > **G.C.E. Ordinary Level (2014)**
+
+> **G.C.E. Ordinary Level (2014)**
 
 8A | 1B
 
