@@ -64,4 +64,4 @@ Mahamaya Girls’ College, Kandy, Sri Lanka
 
 ## Personality Type:
 INFJ 
-* [*(Tell me more!)*](https://www.16personalities.com/infj-personality)
+* [*(More about INFJ)*](https://www.16personalities.com/infj-personality)
