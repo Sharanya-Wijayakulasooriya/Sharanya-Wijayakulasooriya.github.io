@@ -63,5 +63,6 @@ Mahamaya Girls’ College, Kandy, Sri Lanka
 * Gardening
 
 ## Personality Type:
-> INFJ 
+INFJ 
+
 [*(Tell me more!)*](https://www.16personalities.com/infj-personality)
