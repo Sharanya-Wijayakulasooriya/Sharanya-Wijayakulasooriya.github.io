@@ -1,6 +1,6 @@
-<p align="center">
+<img align="center">
 <img src="https://drive.google.com/file/d/15-iI_Pb3zrLYvb_jWItYWdtmjV1kEXu5/view?usp=sharing"
-</p>
+</img>
  
 <h1 align="center"> Sharanya Wijayakulasooriya </h1> 
 
