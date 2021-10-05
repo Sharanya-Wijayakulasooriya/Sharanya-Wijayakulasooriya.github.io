@@ -1,5 +1,5 @@
 <p align="center">
-![IMG_20201022_094856_579](https://user-images.githubusercontent.com/91935524/135993429-6faa2f71-1bec-457b-9636-f7528d497445.jpg)
+<img width="200" src="C:\Users\pc\Documents"
 </p>
  
 <h1 align="center"> Sharanya Wijayakulasooriya </h1> 
