@@ -1,6 +1,6 @@
 ![IMG_20201022_094856_579](https://user-images.githubusercontent.com/91935524/135993429-6faa2f71-1bec-457b-9636-f7528d497445.jpg)
 
-# **Sharanya Wijayakulasooriya** 
+<h1 align="center"> # **Sharanya Wijayakulasooriya** </h1> 
 
 ## About Me:
 
