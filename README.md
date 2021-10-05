@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Snapchat-348219737](https://user-images.githubusercontent.com/91935524/136033369-07d1f2a4-34ab-4d29-935b-398ab8451002.jpg)" alt="Sublime's custom image"/>
+  <img src="(https://user-images.githubusercontent.com/91935524/136033369-07d1f2a4-34ab-4d29-935b-398ab8451002.jpg)" alt="Sublime's custom image"/>
 </p>
 
 <h1 align="center"> Sharanya Wijayakulasooriya </h1> 
