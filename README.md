@@ -17,6 +17,20 @@ I like to learn new things and use my whole potential to do any task that helps 
  [Download Resume](https://drive.google.com/file/d/1xNeTTSitR7Z_sYnUxSVSeiX0gT9YfNcY/view?usp=sharing)
 
 ## Educational Qualifications:
+
+### **Higher Education:**
+
+> Bachelor's Degree (2021-)
+B.Sc.(Hons.) in Biotechnology 
+
+Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
+
+> Diploma in Multimedia (2019-)
+
+Wijeya Graphics Pvt. Ltd. (Kandy Branch), Sri Lanka
+
+### **Secondary Education:**
+
 > **G.C.E. Advanced Level (2020)**
  
  Bio Science: 
