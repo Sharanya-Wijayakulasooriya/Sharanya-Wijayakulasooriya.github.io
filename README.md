@@ -19,6 +19,7 @@ I like to learn new things and use my whole potential to do any task that helps 
 ## Educational Qualifications:
 > **G.C.E. Advanced Level (2020)**
  Bio Science: 
+ 
  Biology - C | Chemistry – S | Physics – S 
 
  (Index No. - 9269843) 
