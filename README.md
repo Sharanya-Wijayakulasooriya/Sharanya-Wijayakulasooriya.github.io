@@ -1,5 +1,3 @@
-![IMG_20201022_094856_579](https://user-images.githubusercontent.com/91935524/136026681-947fcabc-3fe7-4774-882b-8a2400a51d82.jpg)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91935524/136026681-947fcabc-3fe7-4774-882b-8a2400a51d82.jpg" alt="Sublime's custom image"/>
 </p>
