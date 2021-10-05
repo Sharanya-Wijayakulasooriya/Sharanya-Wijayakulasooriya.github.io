@@ -26,7 +26,14 @@ I like to learn new things and use my whole potential to do any task that helps 
  (Index No. - 9269843) 
 
  Mahamaya Girls’ College, Kandy, Sri Lanka
+ 
+ > **G.C.E. Ordinary Level (2014)**
 
+8A | 1B
+
+(Index No.: 43878997)
+
+Mahamaya Girls’ College, Kandy, Sri Lanka
 
 ## Technical Proficiency:
 
