@@ -9,7 +9,7 @@ I'm currently an undergraduate student at SLIIT majoring in Biotechnology.
 I like to learn new things and use my whole potential to do any task that helps to make the world a better place, making sure to do it until the end, no matter how hard it will be. 
 
 ## Contact Details:
- Email : hs21207372@my.sliit.lk
+ Email : [hs21207372@my.sliit.lk](mailto:hs21207372@my.sliit.lk)
 
  Linkedin : [Sharanya Wijayakulasooriya](https://www.linkedin.com/in/sharanya-wijayakulasooriya-7a4991217/)
 
